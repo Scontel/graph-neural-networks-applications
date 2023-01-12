@@ -464,3 +464,4 @@ Commit on 2023-01-06T12:48:01: Improve error handling and logging
 Commit on 2023-01-06T18:04:25: Improve memory management during inference
 Commit on 2023-01-10T09:13:32: Add configuration options for hyperparameters
 Commit on 2023-01-11T17:10:34: Update README with installation instructions
+Commit on 2023-01-12T09:42:31: Update README with installation instructions
