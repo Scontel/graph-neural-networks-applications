@@ -472,3 +472,4 @@ Commit on 2023-01-16T18:36:14: Improve memory management during inference
 Commit on 2023-01-16T12:05:00: Add unit tests for new features
 Commit on 2023-01-16T18:20:47: Add support for distributed training
 Commit on 2023-01-16T14:38:01: Enhance visualization of results
+Commit on 2023-01-17T12:22:46: Update README with installation instructions
