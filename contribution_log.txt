@@ -499,3 +499,4 @@ Commit on 2023-01-30T13:27:23: Add unit tests for new features
 Commit on 2023-01-30T10:51:53: Optimize model training loop
 Commit on 2023-01-30T15:56:31: Update CI/CD pipeline configuration
 Commit on 2023-01-31T18:55:46: Enhance visualization of results
+Commit on 2023-01-31T16:12:16: Fix edge case in input validation
