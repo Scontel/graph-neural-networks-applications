@@ -535,3 +535,4 @@ Commit on 2023-02-22T10:16:20: Enhance visualization of results
 Commit on 2023-02-23T10:44:03: Optimize model training loop
 Commit on 2023-02-23T14:47:31: Improve memory management during inference
 Commit on 2023-02-23T13:21:07: Enhance visualization of results
+Commit on 2023-02-27T12:27:25: Update documentation and examples
