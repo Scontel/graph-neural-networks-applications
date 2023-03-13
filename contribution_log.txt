@@ -549,3 +549,4 @@ Commit on 2023-03-06T12:35:28: Fix minor bug in data processing
 Commit on 2023-03-07T14:30:29: Improve memory management during inference
 Commit on 2023-03-09T13:34:44: Update documentation and examples
 Commit on 2023-03-09T09:13:23: Implement caching mechanism for frequent requests
+Commit on 2023-03-13T11:38:53: Update CI/CD pipeline configuration
