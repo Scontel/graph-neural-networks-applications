@@ -574,3 +574,4 @@ Commit on 2023-03-23T13:01:00: Fix minor bug in data processing
 Commit on 2023-03-23T11:18:50: Fix minor bug in data processing
 Commit on 2023-03-24T10:56:43: Update dependencies to latest versions
 Commit on 2023-03-24T14:29:57: Add support for distributed training
+Commit on 2023-03-27T13:08:56: Update CI/CD pipeline configuration
