@@ -38,13 +38,13 @@ def train_cora():
         optimizer.step()
         
         if epoch % 20 == 0:
-            print(f'Epoch {epoch:>3} | Loss: {loss:.4f}')
+            print(f'Epoch {epoch:>3} | Loss: {loss:.4f}'")
 
     model.eval()
     pred = model(data).argmax(dim=1)
     correct = (pred[data.test_mask] == data.y[data.test_mask]).sum()
     acc = int(correct) / int(data.test_mask.sum())
-    print(f'Test Accuracy: {acc:.4f}')
+    print(f'Test Accuracy: {acc:.4f}'")
 
 if __name__ == "__main__":
     train_cora()
