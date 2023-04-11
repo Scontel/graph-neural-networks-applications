@@ -600,3 +600,4 @@ Commit on 2023-04-06T10:09:05: Implement new algorithm for data augmentation
 Commit on 2023-04-07T12:26:25: Improve memory management during inference
 Commit on 2023-04-10T17:44:19: Implement new algorithm for data augmentation
 Commit on 2023-04-10T11:31:47: Clean up code and remove unused imports
+Commit on 2023-04-11T13:54:07: Add support for distributed training
