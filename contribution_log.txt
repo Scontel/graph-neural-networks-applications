@@ -610,3 +610,4 @@ Commit on 2023-04-14T16:30:45: Enhance security measures for API endpoints
 Commit on 2023-04-18T13:16:22: Fix minor bug in data processing
 Commit on 2023-04-18T11:06:36: Update README with installation instructions
 Commit on 2023-04-19T18:41:55: Update README with installation instructions
+Commit on 2023-04-19T11:39:24: Add support for distributed training
