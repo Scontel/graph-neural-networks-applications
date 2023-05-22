@@ -656,3 +656,4 @@ Commit on 2023-05-19T17:58:39: Fix edge case in input validation
 Commit on 2023-05-19T09:31:21: Update dependencies to latest versions
 Commit on 2023-05-22T17:18:52: Enhance visualization of results
 Commit on 2023-05-22T10:06:10: Improve memory management during inference
+Commit on 2023-05-22T14:32:25: Add configuration options for hyperparameters
