@@ -657,3 +657,4 @@ Commit on 2023-05-19T09:31:21: Update dependencies to latest versions
 Commit on 2023-05-22T17:18:52: Enhance visualization of results
 Commit on 2023-05-22T10:06:10: Improve memory management during inference
 Commit on 2023-05-22T14:32:25: Add configuration options for hyperparameters
+Commit on 2023-05-23T10:26:19: Update documentation and examples
