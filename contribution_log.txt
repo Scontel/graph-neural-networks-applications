@@ -698,3 +698,4 @@ Commit on 2023-06-13T11:06:57: Add unit tests for new features
 Commit on 2023-06-14T11:52:28: Integrate new data source for training
 Commit on 2023-06-14T13:32:55: Update README with installation instructions
 Commit on 2023-06-14T12:02:37: Add configuration options for hyperparameters
+Commit on 2023-06-14T12:44:40: Update README with installation instructions
