@@ -718,3 +718,4 @@ Commit on 2023-06-22T13:46:07: Add unit tests for new features
 Commit on 2023-06-22T17:12:33: Update dependencies to latest versions
 Commit on 2023-06-22T19:29:37: Add unit tests for new features
 Commit on 2023-06-27T16:14:54: Improve memory management during inference
+Commit on 2023-06-28T12:19:56: Add configuration options for hyperparameters
