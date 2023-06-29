@@ -721,3 +721,4 @@ Commit on 2023-06-27T16:14:54: Improve memory management during inference
 Commit on 2023-06-28T12:19:56: Add configuration options for hyperparameters
 Commit on 2023-06-28T10:43:08: Enhance visualization of results
 Commit on 2023-06-28T18:58:36: Update documentation and examples
+Commit on 2023-06-29T14:36:18: Fix minor bug in data processing
