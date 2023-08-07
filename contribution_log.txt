@@ -780,3 +780,4 @@ Commit on 2023-08-04T09:47:31: Update documentation and examples
 Commit on 2023-08-04T10:18:47: Optimize model training loop
 Commit on 2023-08-07T18:50:44: Update documentation and examples
 Commit on 2023-08-07T17:41:11: Add support for distributed training
+Commit on 2023-08-07T15:16:21: Improve memory management during inference
