@@ -811,3 +811,4 @@ Commit on 2023-08-22T12:13:50: Add configuration options for hyperparameters
 Commit on 2023-08-22T11:48:00: Add support for distributed training
 Commit on 2023-08-23T14:42:50: Update CI/CD pipeline configuration
 Commit on 2023-08-25T11:13:13: Clean up code and remove unused imports
+Commit on 2023-08-25T15:55:56: Improve memory management during inference
