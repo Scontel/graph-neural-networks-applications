@@ -851,3 +851,4 @@ Commit on 2023-09-14T12:34:43: Refactor core logic for better performance
 Commit on 2023-09-14T12:29:32: Enhance visualization of results
 Commit on 2023-09-14T17:40:50: Update README with installation instructions
 Commit on 2023-09-15T11:19:40: Add configuration options for hyperparameters
+Commit on 2023-09-15T15:53:56: Clean up code and remove unused imports
