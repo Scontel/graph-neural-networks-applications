@@ -882,3 +882,4 @@ Commit on 2023-10-10T19:12:48: Improve error handling and logging
 Commit on 2023-10-11T18:30:48: Update README with installation instructions
 Commit on 2023-10-11T16:42:00: Improve memory management during inference
 Commit on 2023-10-11T18:38:58: Update README with installation instructions
+Commit on 2023-10-11T15:01:31: Fix edge case in input validation
