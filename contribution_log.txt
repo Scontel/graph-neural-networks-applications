@@ -879,3 +879,4 @@ Commit on 2023-10-09T14:41:07: Refactor core logic for better performance
 Commit on 2023-10-10T18:45:49: Implement new algorithm for data augmentation
 Commit on 2023-10-10T18:49:29: Optimize model training loop
 Commit on 2023-10-10T19:12:48: Improve error handling and logging
+Commit on 2023-10-11T18:30:48: Update README with installation instructions
