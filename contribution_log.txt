@@ -933,3 +933,4 @@ Commit on 2023-11-14T16:58:57: Improve memory management during inference
 Commit on 2023-11-15T12:07:58: Update README with installation instructions
 Commit on 2023-11-15T12:01:51: Fix minor bug in data processing
 Commit on 2023-11-16T14:46:09: Add support for distributed training
+Commit on 2023-11-16T18:23:20: Add configuration options for hyperparameters
