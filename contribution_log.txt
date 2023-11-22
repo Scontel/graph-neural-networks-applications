@@ -943,3 +943,4 @@ Commit on 2023-11-17T14:18:21: Enhance visualization of results
 Commit on 2023-11-20T09:34:33: Update dependencies to latest versions
 Commit on 2023-11-22T14:00:45: Add unit tests for new features
 Commit on 2023-11-22T14:10:12: Fix edge case in input validation
+Commit on 2023-11-22T10:54:47: Add configuration options for hyperparameters
