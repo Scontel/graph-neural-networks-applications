@@ -945,3 +945,4 @@ Commit on 2023-11-22T14:00:45: Add unit tests for new features
 Commit on 2023-11-22T14:10:12: Fix edge case in input validation
 Commit on 2023-11-22T10:54:47: Add configuration options for hyperparameters
 Commit on 2023-11-24T14:23:54: Add configuration options for hyperparameters
+Commit on 2023-11-27T15:53:55: Integrate new data source for training
