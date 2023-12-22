@@ -987,3 +987,4 @@ Commit on 2023-12-21T18:24:59: Update README with installation instructions
 Commit on 2023-12-21T09:15:36: Implement caching mechanism for frequent requests
 Commit on 2023-12-21T14:28:57: Update documentation and examples
 Commit on 2023-12-22T14:03:04: Fix minor bug in data processing
+Commit on 2023-12-22T09:42:37: Update README with installation instructions
