@@ -992,3 +992,4 @@ Commit on 2023-12-26T11:00:16: Update dependencies to latest versions
 Commit on 2023-12-26T17:46:33: Add unit tests for new features
 Commit on 2023-12-26T18:13:20: Enhance visualization of results
 Commit on 2023-12-27T16:29:29: Fix minor bug in data processing
+Commit on 2023-12-28T12:16:50: Improve memory management during inference
