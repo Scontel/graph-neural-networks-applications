@@ -5,3 +5,4 @@ Commit on 2024-11-05T13:00:59: Update documentation and examples
 Commit on 2024-11-07T15:12:30: Improve memory management during inference
 Commit on 2024-11-07T12:26:41: Implement new algorithm for data augmentation
 Commit on 2024-11-07T15:22:33: Clean up code and remove unused imports
+Commit on 2024-11-07T15:49:19: Refactor core logic for better performance
