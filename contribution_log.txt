@@ -23,3 +23,4 @@ Commit on 2024-11-27T11:05:20: Update README with installation instructions
 Commit on 2024-11-27T12:33:26: Add support for distributed training
 Commit on 2024-11-27T16:56:12: Update dependencies to latest versions
 Commit on 2024-11-28T09:06:54: Add support for distributed training
+Commit on 2024-11-29T15:06:40: Update documentation and examples
