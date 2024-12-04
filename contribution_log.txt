@@ -30,3 +30,4 @@ Commit on 2024-12-03T18:13:38: Add unit tests for new features
 Commit on 2024-12-04T13:46:47: Refactor core logic for better performance
 Commit on 2024-12-04T15:12:01: Add configuration options for hyperparameters
 Commit on 2024-12-04T16:43:33: Optimize model training loop
+Commit on 2024-12-04T15:50:39: Clean up code and remove unused imports
