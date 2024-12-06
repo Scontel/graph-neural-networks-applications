@@ -35,3 +35,4 @@ Commit on 2024-12-05T11:42:29: Add configuration options for hyperparameters
 Commit on 2024-12-05T09:38:25: Add support for distributed training
 Commit on 2024-12-06T16:11:26: Update documentation and examples
 Commit on 2024-12-06T13:26:33: Improve memory management during inference
+Commit on 2024-12-06T10:00:13: Add unit tests for new features
