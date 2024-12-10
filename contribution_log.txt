@@ -38,3 +38,4 @@ Commit on 2024-12-06T13:26:33: Improve memory management during inference
 Commit on 2024-12-06T10:00:13: Add unit tests for new features
 Commit on 2024-12-09T11:53:26: Fix edge case in input validation
 Commit on 2024-12-10T17:35:35: Improve error handling and logging
+Commit on 2024-12-10T13:35:48: Add configuration options for hyperparameters
