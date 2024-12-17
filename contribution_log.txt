@@ -46,3 +46,4 @@ Commit on 2024-12-12T12:33:10: Optimize model training loop
 Commit on 2024-12-12T17:10:04: Add support for distributed training
 Commit on 2024-12-13T09:13:45: Add configuration options for hyperparameters
 Commit on 2024-12-13T16:33:11: Improve memory management during inference
+Commit on 2024-12-17T10:17:21: Update README with installation instructions
