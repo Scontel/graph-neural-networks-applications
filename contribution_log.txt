@@ -49,3 +49,4 @@ Commit on 2024-12-13T16:33:11: Improve memory management during inference
 Commit on 2024-12-17T10:17:21: Update README with installation instructions
 Commit on 2024-12-17T11:48:31: Enhance visualization of results
 Commit on 2024-12-18T09:43:06: Update dependencies to latest versions
+Commit on 2024-12-18T14:24:57: Fix edge case in input validation
