@@ -57,3 +57,4 @@ Commit on 2024-12-27T16:28:02: Implement new algorithm for data augmentation
 Commit on 2024-12-27T12:10:59: Clean up code and remove unused imports
 Commit on 2024-12-27T17:31:28: Improve memory management during inference
 Commit on 2024-12-30T18:33:53: Update dependencies to latest versions
+Commit on 2024-12-31T13:31:22: Update dependencies to latest versions
