@@ -114,3 +114,4 @@ Commit on 2025-03-05T10:21:26: Implement new algorithm for data augmentation
 Commit on 2025-03-05T15:29:36: Fix edge case in input validation
 Commit on 2025-03-05T14:48:26: Add configuration options for hyperparameters
 Commit on 2025-03-06T10:35:08: Fix edge case in input validation
+Commit on 2025-03-06T11:12:21: Improve error handling and logging
