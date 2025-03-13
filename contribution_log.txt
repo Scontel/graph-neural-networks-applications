@@ -119,3 +119,4 @@ Commit on 2025-03-06T17:30:20: Fix edge case in input validation
 Commit on 2025-03-07T17:05:38: Clean up code and remove unused imports
 Commit on 2025-03-12T12:57:17: Optimize model training loop
 Commit on 2025-03-13T17:01:33: Update README with installation instructions
+Commit on 2025-03-13T11:40:44: Add configuration options for hyperparameters
