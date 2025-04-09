@@ -141,3 +141,4 @@ Commit on 2025-04-07T15:37:24: Improve memory management during inference
 Commit on 2025-04-09T10:00:31: Improve error handling and logging
 Commit on 2025-04-09T16:26:09: Add configuration options for hyperparameters
 Commit on 2025-04-09T18:53:34: Update README with installation instructions
+Commit on 2025-04-09T13:44:00: Update documentation and examples
