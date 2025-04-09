@@ -139,3 +139,4 @@ Commit on 2025-04-04T16:16:14: Enhance visualization of results
 Commit on 2025-04-07T11:04:04: Add configuration options for hyperparameters
 Commit on 2025-04-07T15:37:24: Improve memory management during inference
 Commit on 2025-04-09T10:00:31: Improve error handling and logging
+Commit on 2025-04-09T16:26:09: Add configuration options for hyperparameters
