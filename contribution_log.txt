@@ -153,3 +153,4 @@ Commit on 2025-04-18T18:57:55: Fix minor bug in data processing
 Commit on 2025-04-18T16:54:35: Fix edge case in input validation
 Commit on 2025-04-21T17:11:44: Refactor core logic for better performance
 Commit on 2025-04-21T10:32:48: Add configuration options for hyperparameters
+Commit on 2025-04-22T14:57:43: Update README with installation instructions
