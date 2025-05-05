@@ -162,3 +162,4 @@ Commit on 2025-04-30T18:17:10: Optimize model training loop
 Commit on 2025-05-01T14:31:17: Refactor core logic for better performance
 Commit on 2025-05-02T12:18:15: Clean up code and remove unused imports
 Commit on 2025-05-02T09:37:49: Improve error handling and logging
+Commit on 2025-05-05T13:28:15: Add configuration options for hyperparameters
