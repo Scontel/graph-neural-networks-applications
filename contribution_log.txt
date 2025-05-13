@@ -171,3 +171,4 @@ Commit on 2025-05-09T14:38:05: Add support for distributed training
 Commit on 2025-05-09T17:59:52: Improve error handling and logging
 Commit on 2025-05-12T15:29:23: Clean up code and remove unused imports
 Commit on 2025-05-13T13:26:33: Enhance visualization of results
+Commit on 2025-05-13T17:31:43: Improve error handling and logging
