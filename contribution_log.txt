@@ -190,3 +190,4 @@ Commit on 2025-05-30T15:57:41: Update dependencies to latest versions
 Commit on 2025-05-30T10:02:19: Fix edge case in input validation
 Commit on 2025-06-04T16:44:33: Update documentation and examples
 Commit on 2025-06-06T09:59:24: Update dependencies to latest versions
+Commit on 2025-06-10T12:30:27: Update README with installation instructions
