@@ -202,3 +202,4 @@ Commit on 2025-06-18T10:14:25: Fix minor bug in data processing
 Commit on 2025-06-18T18:49:19: Fix edge case in input validation
 Commit on 2025-06-19T17:11:21: Update documentation and examples
 Commit on 2025-06-19T15:50:14: Improve memory management during inference
+Commit on 2025-06-23T09:35:03: Improve memory management during inference
