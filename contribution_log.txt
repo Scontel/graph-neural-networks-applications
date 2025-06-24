@@ -204,3 +204,4 @@ Commit on 2025-06-19T17:11:21: Update documentation and examples
 Commit on 2025-06-19T15:50:14: Improve memory management during inference
 Commit on 2025-06-23T09:35:03: Improve memory management during inference
 Commit on 2025-06-23T11:20:48: Improve error handling and logging
+Commit on 2025-06-24T14:00:46: Update dependencies to latest versions
