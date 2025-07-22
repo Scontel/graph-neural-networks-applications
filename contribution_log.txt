@@ -226,3 +226,4 @@ Commit on 2025-07-16T18:46:44: Enhance visualization of results
 Commit on 2025-07-17T11:24:10: Implement new algorithm for data augmentation
 Commit on 2025-07-17T17:35:18: Refactor core logic for better performance
 Commit on 2025-07-17T11:52:33: Update documentation and examples
+Commit on 2025-07-22T10:16:33: Update README with installation instructions
