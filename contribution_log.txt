@@ -242,3 +242,4 @@ Commit on 2025-07-30T13:15:48: Add unit tests for new features
 Commit on 2025-07-30T09:25:19: Add unit tests for new features
 Commit on 2025-07-31T18:47:29: Add unit tests for new features
 Commit on 2025-07-31T09:14:25: Refactor core logic for better performance
+Commit on 2025-08-04T17:52:05: Improve memory management during inference
