@@ -245,3 +245,4 @@ Commit on 2025-07-31T09:14:25: Refactor core logic for better performance
 Commit on 2025-08-04T17:52:05: Improve memory management during inference
 Commit on 2025-08-05T18:28:24: Improve memory management during inference
 Commit on 2025-08-05T15:36:50: Clean up code and remove unused imports
+Commit on 2025-08-05T10:13:46: Add configuration options for hyperparameters
