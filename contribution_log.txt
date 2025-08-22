@@ -256,3 +256,4 @@ Commit on 2025-08-19T12:53:21: Improve memory management during inference
 Commit on 2025-08-19T12:26:18: Enhance visualization of results
 Commit on 2025-08-20T18:19:27: Update README with installation instructions
 Commit on 2025-08-21T16:57:44: Update dependencies to latest versions
+Commit on 2025-08-22T16:52:20: Add configuration options for hyperparameters
