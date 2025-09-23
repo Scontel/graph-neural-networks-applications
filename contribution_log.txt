@@ -284,3 +284,4 @@ Commit on 2025-09-17T16:27:10: Implement new algorithm for data augmentation
 Commit on 2025-09-17T17:43:52: Refactor core logic for better performance
 Commit on 2025-09-18T13:11:23: Fix edge case in input validation
 Commit on 2025-09-22T14:42:05: Improve memory management during inference
+Commit on 2025-09-23T11:49:08: Update README with installation instructions
