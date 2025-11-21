@@ -338,3 +338,4 @@ Commit on 2025-11-13T16:23:44: Fix minor bug in data processing
 Commit on 2025-11-14T12:50:28: Update README with installation instructions
 Commit on 2025-11-19T09:20:09: Optimize model training loop
 Commit on 2025-11-19T13:24:11: Enhance visualization of results
+Commit on 2025-11-21T13:19:05: Refactor core logic for better performance
