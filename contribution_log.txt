@@ -348,3 +348,4 @@ Commit on 2025-11-25T15:32:53: Optimize model training loop
 Commit on 2025-11-25T10:38:23: Optimize model training loop
 Commit on 2025-11-28T17:49:16: Fix edge case in input validation
 Commit on 2025-11-28T17:36:30: Improve error handling and logging
+Commit on 2025-11-28T10:46:58: Add configuration options for hyperparameters
