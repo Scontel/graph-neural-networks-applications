@@ -351,3 +351,4 @@ Commit on 2025-11-28T17:36:30: Improve error handling and logging
 Commit on 2025-11-28T10:46:58: Add configuration options for hyperparameters
 Commit on 2025-12-02T16:42:47: Enhance visualization of results
 Commit on 2025-12-03T10:43:33: Add configuration options for hyperparameters
+Commit on 2025-12-03T12:04:49: Update README with installation instructions
