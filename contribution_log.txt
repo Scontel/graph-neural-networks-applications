@@ -368,3 +368,4 @@ Commit on 2025-12-16T13:48:37: Refactor core logic for better performance
 Commit on 2025-12-18T16:56:15: Update documentation and examples
 Commit on 2025-12-19T15:24:25: Implement new algorithm for data augmentation
 Commit on 2025-12-23T10:25:56: Fix minor bug in data processing
+Commit on 2025-12-23T09:26:35: Update README with installation instructions
