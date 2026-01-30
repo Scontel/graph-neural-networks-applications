@@ -393,3 +393,4 @@ Commit on 2026-01-28T09:35:37: Fix minor bug in data processing
 Commit on 2026-01-29T13:19:25: Fix minor bug in data processing
 Commit on 2026-01-29T09:09:29: Add configuration options for hyperparameters
 Commit on 2026-01-30T10:17:58: Optimize model training loop
+Commit on 2026-01-30T15:20:44: Enhance visualization of results
