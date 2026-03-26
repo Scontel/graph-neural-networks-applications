@@ -448,3 +448,4 @@ Commit on 2026-03-23T14:57:17: Add configuration options for hyperparameters
 Commit on 2026-03-23T12:55:02: Improve memory management during inference
 Commit on 2026-03-24T12:31:12: Add support for distributed training
 Commit on 2026-03-26T11:31:29: Clean up code and remove unused imports
+Commit on 2026-03-26T10:55:40: Add unit tests for new features
